@@ -7,6 +7,16 @@ File link: https://drive.google.com/file/d/1yEnwsxJTNuPofMqf6iZ_bJBdv3j15fIG/vie
 
 Paper Title:  Biometric Authentication based on EEG
 
+Conference submitted paper / paper submission / login Link: https://easychair.org/account/signin
+
+Paper submission date: 31 December 2022
+
+Paper submission ID: 5800
+
+Conference Name: 9th International Conference on Advanced Computing and Communication Systems (ICACCS 2023)
+
+Conference URL: https://icaccs.sece.ac.in/index.html
+
 
 Group Number: 16
 
