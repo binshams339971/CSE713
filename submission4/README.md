@@ -3,7 +3,7 @@
 
 Youtube link: 
 
-File link: https://drive.google.com/file/d/1QE_6iCTNwX8WLeqeNIRNqK7kJCzuAodc/view?usp=share_link
+File link: https://drive.google.com/file/d/1yEnwsxJTNuPofMqf6iZ_bJBdv3j15fIG/view?usp=sharing
 
 Paper Title:  Biometric Authentication based on EEG
 
