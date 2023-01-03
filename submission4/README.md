@@ -17,6 +17,8 @@ Conference Name: 9th International Conference on Advanced Computing and Communic
 
 Conference URL: https://icaccs.sece.ac.in/index.html
 
+Submission email screenshot link: https://drive.google.com/file/d/1f_ukzQZz7E6SqMZxzr__v5sT5In2jz_f/view?usp=sharing
+
 
 Group Number: 16
 
